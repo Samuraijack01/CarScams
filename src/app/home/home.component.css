@@ -1,0 +1,35 @@
+#picture{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#picture-container{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+h1{
+    text-align: center;
+}
+h1 {
+    background-color: navy; 
+    display: inline-block;
+    color: white;
+    border-radius: 50px;
+    padding: 15px 15px;
+    margin:auto
+}
+
+.center{
+    text-align: center;
+    margin: auto;
+    margin-top: 15px 
+}
+div {
+    text-align: center;
+}
+
+
+
